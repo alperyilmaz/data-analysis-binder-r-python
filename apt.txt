@@ -1,0 +1,14 @@
+gdal-bin
+libcurl4-openssl-dev
+libgdal-dev
+libgeos-dev
+libglpk-dev
+libgmp3-dev
+libicu-dev
+libproj-dev
+libssl-dev
+libudunits2-dev
+libxml2-dev
+make
+pandoc
+zlib1g-dev
